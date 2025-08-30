@@ -29,7 +29,7 @@ Click on each preview to view the full project PDF.
 *Vehicle wraps, banners, storefront decals, and seasonal in-store branding.*  
 
 ![Printing Preview](./assets/prv4.png)  
-[📂 View Full Project (PDF)](Print Media%20&%20Visual%20Branding%20Design.pdf)
+[📂 View Full Project (PDF)](Print%20Media%20&%20Visual%20Branding%20Design.pdf)
 
 
 ## Marketing Campaigns & Event Graphics  
