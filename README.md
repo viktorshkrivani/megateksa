@@ -22,7 +22,7 @@ Click on each preview to view the full project PDF.
 *Multi-page catalogs featuring product layouts, specifications, and pricing.*  
 
 ![Catalog Preview](./assets/prv3.png)  
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](Retail%20Prodct%20Catalog%20Design%20&%20Layout.pdf)
 
 
 ## Large-Format Printing & Branding  
