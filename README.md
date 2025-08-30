@@ -8,14 +8,14 @@ Click on each preview to view the full project PDF.
 *Before/after editing for product photography and marketing visuals.*  
 
 ![Photo Preview](./assets/prv1.png)  
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](./Creative%20Photo%20Editing%20&%20Compositing.pdf)
 
 
 ## Furniture Visualization & Product Renders  
 *Visualization and technical renders for furniture products.*  
 
 ![Furniture Preview](./assets/prv2.png)
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](./Creative%20Photo%20Editing%20&%20Compositing.pdf)
 
 
 ## Retail Product Catalog Design  
