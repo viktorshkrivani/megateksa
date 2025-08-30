@@ -14,14 +14,14 @@ Click on each preview to view the full project PDF.
 ## Furniture Visualization & Product Renders  
 *Visualization and technical renders for furniture products.*  
 
-[Furniture Preview](./assets/prv2.png)
+![Furniture Preview](./assets/prv2.png)
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
 ## Retail Product Catalog Design  
 *Multi-page catalogs featuring product layouts, specifications, and pricing.*  
 
-[![Catalog Preview](catalog-thumbnail.png)](link-to-your-pdf)  
+![Catalog Preview](./assets/prv3.png)  
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
