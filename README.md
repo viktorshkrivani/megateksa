@@ -21,7 +21,7 @@ Click on each preview to view the full project PDF.
 ## Retail Product Catalog Design  
 *Multi-page catalogs featuring product layouts, specifications, and pricing.*  
 
-[![Catalog Preview](catalog-thumbnail.png)](link-to-your-pdf)  
+![Catalog Preview](./assets/prv3.png)  
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
