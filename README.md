@@ -7,7 +7,7 @@ Click on each preview to view the full project PDF.
 ## Photo Retouching & Image Enhancement  
 *Before/after editing for product photography and marketing visuals.*  
 
-[![Photo Preview](photo-thumbnail.png)](./assets/prv1.png)  
+[![Photo Preview](photo-thumbnail.png)](.assets/prv1.png)  
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
