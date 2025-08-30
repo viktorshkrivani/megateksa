@@ -52,7 +52,7 @@ Click on each preview to view the full project PDF.
 ![Website Preview](./assets/prv7.png)  
 [📂 View Full Project (PDF)](Website%20Branding%20UXUI%20Design%20&%20Motion%20Graphics.pdf)
 
-
+---
 ### Extra
 ## Personal Branding & Creative Design  
 *Independent branding explorations, creative layouts, and personal design projects.*  
