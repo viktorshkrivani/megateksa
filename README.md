@@ -35,20 +35,20 @@ Click on each preview to view the full project PDF.
 ## Marketing Campaigns & Event Graphics  
 *Flyers, social media posts, and promotional campaign design (e.g. Halloween campaigns).*  
 
-[![Campaign Preview](campaign-thumbnail.png)](link-to-your-pdf)  
+![Campaign Preview](./assets/prv5.png) 
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
 ## Email Marketing Design  
 *Promotional newsletters and seasonal email campaigns.*  
 
-[![Email Preview](email-thumbnail.png)](link-to-your-pdf)  
+![Email Preview](./assets/prv6.png) 
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
 ## Website Branding, UX/UI & Motion  
 *Homepage banners, checkout UX flows, and animated GIFs for digital campaigns.*  
 
-[![Website Preview](website-thumbnail.png)](link-to-your-pdf)  
+![Website Preview](./assets/prv7.png)  
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
