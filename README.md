@@ -29,26 +29,26 @@ Click on each preview to view the full project PDF.
 *Vehicle wraps, banners, storefront decals, and seasonal in-store branding.*  
 
 ![Printing Preview](./assets/prv4.png)  
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](Print Media%20&%20Visual%20Branding%20Design.pdf)
 
 
 ## Marketing Campaigns & Event Graphics  
 *Flyers, social media posts, and promotional campaign design (e.g. Halloween campaigns).*  
 
 ![Campaign Preview](./assets/prv5.png) 
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](Marketing%20Campaign%20&%20Promotional%20Design.pdf)
 
 
 ## Email Marketing Design  
 *Promotional newsletters and seasonal email campaigns.*  
 
 ![Email Preview](./assets/prv6.png) 
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](Email%20Marketing%20Design%20&%20Campaigns.pdf)
 
 
 ## Website Branding, UX/UI & Motion  
 *Homepage banners, checkout UX flows, and animated GIFs for digital campaigns.*  
 
 ![Website Preview](./assets/prv7.png)  
-[📂 View Full Project (PDF)](link-to-your-pdf)
+[📂 View Full Project (PDF)](Website%20Branding%20UXUI%20Design%20&%20Motion%20Graphics.pdf)
 
