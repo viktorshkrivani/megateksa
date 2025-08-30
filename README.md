@@ -28,7 +28,7 @@ Click on each preview to view the full project PDF.
 ## Large-Format Printing & Branding  
 *Vehicle wraps, banners, storefront decals, and seasonal in-store branding.*  
 
-[![Printing Preview](printing-thumbnail.png)](link-to-your-pdf)  
+![Printing Preview](./assets/prv4.png)  
 [📂 View Full Project (PDF)](link-to-your-pdf)
 
 
